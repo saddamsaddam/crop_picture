@@ -32,3 +32,6 @@ selectFile=()=>{
       console.log(image);
     });
   }
+
+step 5:link
+https://openbase.com/js/react-native-image-crop-picker
